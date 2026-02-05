@@ -513,9 +513,9 @@ const Homepage = () => {
             <div className="footer-column">
               <h4>Contact</h4>
               <ul>
-                <li>Email: hello@giftech.edu</li>
-                <li>Phone: +254 700 000 000</li>
-                <li>Location: Nairobi, Kenya</li>
+                <li>Nairobi, Kenya</li>
+                <li>+254 712 333 444</li>
+                <li>info@giftech.com</li>
               </ul>
             </div>
             <div className="footer-column">
